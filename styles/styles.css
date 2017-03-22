@@ -42,3 +42,7 @@ nav {
   justify-content: space-around;
   padding: .5rem 0 .5rem;
 }
+
+.container {
+  display: flex;
+}

@@ -6,12 +6,33 @@ body {
   margin: 0 10rem 0 10rem;
 }
 
+.container {
+  width: 100%;
+  /*max-width: 920px
+  margin: 0 auto;*/
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.column01 {
+
+}
+
+.column02 {
+  border: solid 1px grey;
+  flex-grow: 1;
+  }
+
 .kitties-to-go {
   background-color: #000000;
 }
 
-.arrow {
-  font-family: "Wingdings";
+.main {
+  display: flex;
+  justify-content: space-around;
 }
 
 .book {
@@ -41,8 +62,4 @@ nav {
   display: flex;
   justify-content: space-around;
   padding: .5rem 0 .5rem;
-}
-
-.container {
-  display: flex;
 }

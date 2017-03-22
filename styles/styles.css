@@ -7,5 +7,31 @@ body {
 }
 
 .kitties-to-go {
-  
+  background-color: #000000;
+}
+
+.book {
+  text-align: right;
+  padding: .5rem;
+}
+
+.book a {
+  color: red;
+}
+
+h1  {
+  color: white;
+  padding-left: 1.5rem;
+}
+
+h3  {
+  color: grey;
+  padding-left: 1.5rem;
+}
+
+nav {
+  background-color: #B2B2B2;
+  display: flex;
+  justify-content: space-between;
+  padding: .5rem 0 .5rem;
 }

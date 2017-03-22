@@ -1,10 +1,10 @@
 html  {
-  font-family: Tahoma, Geneva, sans-serif;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 body {
   margin: 0 auto;
-  max-width: 65%;
+  max-width: 50%;
   }
 
 .flex-container {
@@ -48,7 +48,7 @@ body {
 .tag-line  {
   font-size: 1rem;
   font-weight: bold;
-  color: grey;
+  color: #CCCCCC;
   padding: 0 0 1rem 1.5rem;
 }
 
@@ -61,14 +61,14 @@ nav {
 
 .feature-title {
   font-size: 20px;
-  font-weight: 550;
+  font-weight: 600;
   text-align: center;
   padding: 0 0 .25rem;
 }
 
 .feature-name {
   font-size: 16px;
-  font-weight: 550;
+  font-weight: 600;
   text-align: center;
   padding: 0 0 .25rem;
 }
